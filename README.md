@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **rishipollai@gmail.com**
 
-- 📄 Know about my experiences [2+ years in software engineering](2+ years in software engineering)
+- 📄 Know about my experiences [2+ years in software engineering].
 
 - ⚡ Fun fact **I think I am an entrepreneur !!**
 
